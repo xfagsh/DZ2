@@ -1,0 +1,10 @@
+.wrapper {
+    width: 50%;
+    margin: 0 auto;
+}
+.wrapper h1 {
+    font-family: 'Comfortaa', cursive;
+}
+.wrapper a {
+    font-family: 'PT Serif', serif;
+}

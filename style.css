@@ -4,7 +4,45 @@
 }
 .wrapper h1 {
     font-family: 'Comfortaa', cursive;
+    text-align: center;
 }
 .wrapper a {
     font-family: 'PT Serif', serif;
+    
+}
+.post_wrapper p{
+    display: flex;
+    text-align: center;
+}
+.post_wrapper p img{
+    height: 150px;
+    width: 200px;
+    padding: 15px;
+}
+
+.photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.photo img{
+    height:400px;
+    width:600px;
+}
+
+.promo {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.promo .btn {
+background-color: #C8FDE7;
+}
+.promo .btn img{
+    width: 50px;
+    height: 50px;
+    border: none;
+
 }
